@@ -1,0 +1,2 @@
+geth init "D:\geth\genesis.json" --datadir "%CD%\Chain1"
+geth --identity "Sproutify" --syncmode "full" --http --http.port "8550" --http.addr localhost --http.corsdomain "*" --datadir "%CD%\Chain1" --port "30303" --http.api "personal,eth,net,web3" --networkid "4591" 
