@@ -4,8 +4,8 @@
 
 to run project install node 16.10 or newer, npm and type:
 
-# git clone https://github.com/arosicki/hackathon-backend.git
+##### git clone https://github.com/arosicki/hackathon-backend.git
 
-# npm install
+##### npm install
 
-# npm start
+##### npm start
